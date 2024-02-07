@@ -1,0 +1,66 @@
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09a4a2cea4edfd1f139cfdc591c8eb54ed40c019"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "3edb2ceba35247d09d51243f1a63095deded34e9be0036b9b16dd3b90d1a5cd7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a962bed87ad55e0b03073c022bfe7a0cbda532ae"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "d88bc169c84a077896df8aa9726f8fdb0674ca9ee6e4cc969ff5962a49bda2c2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b0dff6b1c8593d0889f71a6735620362027b798"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "2ccf5428a24fea311d4af7b7f16f8aa8ab4a03d1aec5930c243c0bb695583c20"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2289cbf2da096b2ebe7c90b2a7202e85dd521093"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "8d6f1a543aef43057cefb78c19ed56c293303273a02d0f8331bcebb4829ea347"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0188a6cbf0358e82105e80d40e335113dee015d3"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "6c90f431491ec1689efc5686e219b9b276f419563d7ec8960a709d393fdfe1ea"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[OpenFOAM_com]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10046fea412509ca9f88f4b4abded8e5eb58e61f"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[OpenFOAM_com.download]]
+    sha256 = "e05baab61bbba8f3319414470817071a524e500b58e05afb3f547de6354a52ad"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFOAM_com_jll.jl/releases/download/OpenFOAM_com-v2312.0.0+0/OpenFOAM_com.v2312.0.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
