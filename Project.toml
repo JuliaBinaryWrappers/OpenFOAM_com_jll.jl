@@ -1,6 +1,6 @@
 name = "OpenFOAM_com_jll"
 uuid = "fd4958d8-5e5c-566c-bfe6-815b1420e10d"
-version = "2312.0.0+0"
+version = "2312.0.0+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
